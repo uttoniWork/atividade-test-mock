@@ -1,16 +1,14 @@
-# atividade_test_mock
+# API de piadas
 
-A new Flutter project.
+A aplicação é uma simples api de piadas.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Instalação
 
-A few resources to get you started if this is your first Flutter project:
+Para conseguir executar a aplicação é necessário instalar [Flutter]('https://docs.flutter.dev/get-started/install') e o [Google Chrome]('https://www.google.com/intl/pt-BR/chrome/').
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Execução
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para rodar a aplicação execute na raíz do projeto o comando:
+`flutter run -d chrome --web-renderer html`

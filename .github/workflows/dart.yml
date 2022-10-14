@@ -33,4 +33,4 @@ jobs:
         run: flutter test
 
       - name: Run build
-      - run: flutter build apk --split-per-abi
+        run: flutter build apk --split-per-abi
